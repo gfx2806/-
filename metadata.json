@@ -1,0 +1,5 @@
+{
+  "name": "الحُس لاستخراج النصوص من الصور",
+  "description": "An intelligent web application that uses AI to recognize Arabic font styles from images. Upload an image to automatically extract Arabic text and identify fonts like Naskh, Ruq'ah, Diwani, and more, providing a preview for verification.",
+  "requestFramePermissions": []
+}
